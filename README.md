@@ -1,3 +1,3 @@
-# 欢迎访问。
-[**博客迁到http://www.xtrdb.net/**](http://www.xtrdb.net/)
+# 欢迎访问
+[**博客迁到:http://www.xtrdb.net/**](http://www.xtrdb.net/)
 
